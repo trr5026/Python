@@ -1,3 +1,3 @@
 # Python
 Test Repo python tools
-WTF is the point of this again??
+Python tools and scripts utilized for various projects
