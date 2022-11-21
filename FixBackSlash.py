@@ -13,14 +13,3 @@ def ReplaceBackslash(Pathname):
     Pathname = 'r' + Pathname
     
     return Pathname.replace("\\","/")
-#    
-#    for char in Pathname:
-#        if Pathname[char] == "\\":
-#            newstring = '/'
-#        else:
-#            newstring = Pathname[char]
-    
-    
-            
-            
-        
